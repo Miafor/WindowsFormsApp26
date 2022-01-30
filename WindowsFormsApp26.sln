@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFrmAdressBok", "WindowsFormsApp26\WindowsFrmAdressBok.csproj", "{CFBE0CFB-7E74-4A42-861C-375BE97EC150}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFBE0CFB-7E74-4A42-861C-375BE97EC150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBE0CFB-7E74-4A42-861C-375BE97EC150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBE0CFB-7E74-4A42-861C-375BE97EC150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBE0CFB-7E74-4A42-861C-375BE97EC150}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0A50274-AF00-44B5-8C39-ACB58C485808}
+	EndGlobalSection
+EndGlobal
